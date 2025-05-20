@@ -29,7 +29,7 @@ Me considero un apasionado por el aprendizaje continuo, siempre buscando nuevos 
 
 ## 📫 Contacto
 <p align="left">
-  <a href="mailto:guerrerojosegarcia@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guerrerojosegarcia@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
   <a href="https://www.linkedin.com/in/jose-g-351321295/" target="_blank">
